@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/resonant-coding-agent-logo.png" alt="RESONANT Coding Agent logo" width="360">
+</p>
+
 # RESONANT Coding Agent
 
 **Your own coding AI. Local. Sovereign.**
