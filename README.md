@@ -8,6 +8,12 @@ It is intentionally light because code agents should not be trapped inside a fix
 
 The goal is simple: a terminal-native code worker that can run inside Resonant Agent OS, point at DeepSeek, Ollama, LM Studio, vLLM, or any OpenAI-compatible endpoint, and do real repository work without a giant brittle prompt.
 
+[🌐 Official Coding Agent Site](https://jovial-lantern-43j4.here.now/) · [Resonant Love Movement](https://www.resonantlove.org/)
+
+**Coding Agent Website:** [jovial-lantern-43j4.here.now](https://jovial-lantern-43j4.here.now/)
+
+**Resonant Love:** [resonantlove.org](https://www.resonantlove.org/)
+
 ## Recommended LLM Paths
 
 1. **DeepSeek API** — best default for full-power coding-agent work. Use DeepSeek Pro (`deepseek-v4-pro`) for long-context repository reasoning and DeepSeek Flash (`deepseek-v4-flash`) for cheaper high-volume passes. Platform: https://platform.deepseek.com
