@@ -1,0 +1,17 @@
+{
+  "id": "resonant-code-agent",
+  "name": "Resonant Code Agent",
+  "kind": "code-agent",
+  "machine": "local-workstation",
+  "transport": "terminal",
+  "workingDirectory": ".",
+  "command": "node",
+  "args": ["src/cli.js"],
+  "launchCommand": "",
+  "memoryPaths": ["./RESONANT_CODE_AGENT.md", "./harness", "./.resonant-code-agent"],
+  "sessionPaths": ["./.resonant-code-agent/sessions"],
+  "webUiUrl": "",
+  "capabilities": ["code", "terminal", "search", "edit", "planning", "approval-requests", "session-recovery"],
+  "status": "offline",
+  "autoInjectRecovery": true
+}

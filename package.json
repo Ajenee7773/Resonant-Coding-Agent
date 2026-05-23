@@ -1,0 +1,19 @@
+{
+  "name": "resonant-code-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first coding agent for Resonant Agent OS with OpenAI-compatible providers.",
+  "bin": {
+    "resonant-code-agent": "src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "run": "node src/cli.js --task",
+    "check": "node scripts/check.js",
+    "smoke": "node src/cli.js --mock --task \"Report status and finish.\""
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
