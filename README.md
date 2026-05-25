@@ -18,6 +18,8 @@ The goal is simple: a terminal-native code worker that can run inside Resonant A
 
 **Resonant Love:** [resonantlove.org](https://www.resonantlove.org/)
 
+**Companion repo:** [RESONANT Agent](https://github.com/Ajenee7773/Resonant-Agent)
+
 ## Recommended LLM Paths
 
 1. **DeepSeek API** — best default for full-power coding-agent work. Use DeepSeek Pro (`deepseek-v4-pro`) for long-context repository reasoning and DeepSeek Flash (`deepseek-v4-flash`) for cheaper high-volume passes. Platform: https://platform.deepseek.com
